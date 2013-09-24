@@ -1,4 +1,3 @@
-<script>alert(test);</script>
 ##搜索结果 chunked 实验
 
 ###实验条件
